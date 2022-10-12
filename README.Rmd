@@ -1,0 +1,7 @@
+---
+title: my first git repo
+author: yixin
+output: github_document
+---
+# my first commit
+  text
